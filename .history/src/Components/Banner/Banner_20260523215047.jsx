@@ -31,7 +31,13 @@ const Banner = () => {
 </a>
    </div>
       <img src={bannerImg} alt="" className='w-190 h-90 mt-10'/>
+      {/* Trusted part */}
+      <div class>
+
       </div>
+
+            
+        </div>
     );
 };
 

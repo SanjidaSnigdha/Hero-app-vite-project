@@ -1,0 +1,11 @@
+import React from 'react';
+
+const TrustedPart = () => {
+    return (
+        <div>
+            <h1>gohgfft</h1>
+        </div>
+    );
+};
+
+export default TrustedPart;
