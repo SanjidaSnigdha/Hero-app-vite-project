@@ -11,7 +11,7 @@ const Footer = () => {
     
         </div>
    
-    <p className='items-center justify-center'>Copyright © {new Date().getFullYear()} - All right reserved</p>
+    <p className='items-center text'>Copyright © {new Date().getFullYear()} - All right reserved</p>
   </aside>
   <nav class="grid-flow-col gap-4 md:place-self-center md:justify-self-end">
     <a className='flex'>

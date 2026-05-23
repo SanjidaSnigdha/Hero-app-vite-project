@@ -39,9 +39,9 @@ const Navbar = () => {
     href="https://github.com/SanjidaSnigdha/Hero-app-vite-project.git" 
     target="_blank"
     rel="noopener noreferrer"
-    className="btn flex items-center gap-2 rounded bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-[#FFFFFF]"
+    className="btn flex items-center gap-2"
   >
-    <FaGithub className="text-lg"/>
+    <FaGithub className="text-lg" />
     Contribute
   </a>
 
@@ -50,4 +50,4 @@ const Navbar = () => {
     );
   };
 
-export default Navbar;
+ex default Navbar;

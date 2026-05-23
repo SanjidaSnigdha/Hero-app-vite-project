@@ -3,18 +3,17 @@ import footerImg from '../../assets/logo.png'
 
 const Footer = () => {
     return (
-       <footer class="$$footer sm:$$footer-horizontalbg-neutral text-neutral-content items-center p-4 bg-[#001931]">
-  <aside class="grid-flow-col items-center mt-8">
-     <div className='flex gap-1'>
-            <img src={footerImg} alt="" className='w-10 h-10' />
-                <a className="text-xl text-[#FFFFFF]">HERO.IO</a>
+        <footer class="$$footer sm:$$footer-horizontal bg-neutral text-neutral-content items-center p-4">
+  <aside class="grid-flow-col items-center">
+    <div className='flex'>
+            <img src={footerImg} alt="" className='w- h-10' />
+                <a className="btn btn-ghost text-xl text-gradient-to-r from-[#632EEF] to-[#9F62F2]">HERO.IO</a>
     
         </div>
-   
-    <p className='items-center justify-center'>Copyright © {new Date().getFullYear()} - All right reserved</p>
+    <p>Copyright © {new Date().getFullYear()} - All right reserved</p>
   </aside>
   <nav class="grid-flow-col gap-4 md:place-self-center md:justify-self-end">
-    <a className='flex'>
+    <a>
       <svg
         xmlns="http://www.w3.org/2000/svg"
         width="24"

@@ -41,7 +41,7 @@ const Navbar = () => {
     rel="noopener noreferrer"
     className="btn flex items-center gap-2 rounded bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-[#FFFFFF]"
   >
-    <FaGithub className="text-lg"/>
+    <FaGithub className="text-lg" />
     Contribute
   </a>
 
