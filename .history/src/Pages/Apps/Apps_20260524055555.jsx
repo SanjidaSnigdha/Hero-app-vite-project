@@ -1,0 +1,30 @@
+import React, { Suspense, useEffect, useState } from 'react';
+import SingleApp from '../SingleApp/SingleApp';
+
+const Apps = () => {
+    const [apps , setApps] = useState([]);
+//     useEffect(() => {
+//    fetch("appsData.json")
+//    .then(res=>res.json())
+//    .then(data => {
+//     console.log(data)
+//    })
+//     },[])
+
+const appPromise=fetch('./appsData.json').then(res=>res.json())
+    return (
+        <div className='w-11/12 mx-auto'>
+            <h1 className='text-center mt-10 font-bold text-[30px] text-[#001931]'style={{fontFamily: "Inter, sans-serif"}}>Trending Apps</h1>
+            <p className='font-normal text-[#627382] text-[15px] text-center'>Explore All Trending Apps on the Market developed by us</p>
+            <Suspense fallback={<span>loading.....</span>}>
+            {
+             <SingleApp></SingleApp>   
+            }
+            </Suspense>
+           
+            
+        </div>
+    );
+};
+
+export default Apps;

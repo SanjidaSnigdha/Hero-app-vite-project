@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://i.ibb.co/8D9Kp8D/taskflow.png",
+    "title": "TaskFlow",
+    "companyName": "NovaTech",
+    "id": 1,
+    "description": "A productivity app for task management and team collaboration.",
+    "size": 45,
+    "reviews": 1200,
+    "ratingAvg": 4.5,
+    "downloads": 50000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 140 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 600 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/2d7L8wM/fitlife.png",
+    "title": "FitLife",
+    "companyName": "HealthSync",
+    "id": 2,
+    "description": "Track workouts, calories, and daily fitness goals.",
+    "size": 60,
+    "reviews": 980,
+    "ratingAvg": 4.3,
+    "downloads": 75000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 320 },
+      { "name": "5 star", "count": 450 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/Wv2KzQf/musicbox.png",
+    "title": "MusicBox",
+    "companyName": "Wave Studio",
+    "id": 3,
+    "description": "Stream unlimited songs and create playlists.",
+    "size": 85,
+    "reviews": 3400,
+    "ratingAvg": 4.8,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 2300 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/0rM7x8L/chatzone.png",
+    "title": "ChatZone",
+    "companyName": "Connectify",
+    "id": 4,
+    "description": "Instant messaging app with secure communication.",
+    "size": 32,
+    "reviews": 2500,
+    "ratingAvg": 4.4,
+    "downloads": 150000,
+    "ratings": [
+      { "name": "1 star", "count": 45 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 1405 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/jTQfmTq/learnhub.png",
+    "title": "LearnHub",
+    "companyName": "EduPrime",
+    "id": 5,
+    "description": "Online learning platform with interactive courses.",
+    "size": 78,
+    "reviews": 1870,
+    "ratingAvg": 4.7,
+    "downloads": 95000,
+    "ratings": [
+      { "name": "1 star", "count": 18 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 160 },
+      { "name": "4 star", "count": 520 },
+      { "name": "5 star", "count": 1132 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/7jQ4k8N/travelgo.png",
+    "title": "TravelGo",
+    "companyName": "SkyRoute",
+    "id": 6,
+    "description": "Book hotels, flights, and explore destinations.",
+    "size": 95,
+    "reviews": 1430,
+    "ratingAvg": 4.2,
+    "downloads": 87000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 210 },
+      { "name": "4 star", "count": 470 },
+      { "name": "5 star", "count": 600 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/TL2p4yS/foodie.png",
+    "title": "Foodie",
+    "companyName": "QuickBite",
+    "id": 7,
+    "description": "Food delivery app with fast doorstep service.",
+    "size": 55,
+    "reviews": 4100,
+    "ratingAvg": 4.6,
+    "downloads": 420000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 2500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/Xp7Q2Vy/weatherly.png",
+    "title": "Weatherly",
+    "companyName": "ClimateTech",
+    "id": 8,
+    "description": "Accurate weather forecasts and live alerts.",
+    "size": 28,
+    "reviews": 860,
+    "ratingAvg": 4.1,
+    "downloads": 62000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 260 },
+      { "name": "5 star", "count": 370 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/J7r8zWm/shopmart.png",
+    "title": "ShopMart",
+    "companyName": "RetailX",
+    "id": 9,
+    "description": "Shop electronics, fashion, and daily essentials.",
+    "size": 110,
+    "reviews": 5200,
+    "ratingAvg": 4.7,
+    "downloads": 550000,
+    "ratings": [
+      { "name": "1 star", "count": 45 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 1400 },
+      { "name": "5 star", "count": 3365 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/vQvT1mS/securevpn.png",
+    "title": "SecureVPN",
+    "companyName": "CyberShield",
+    "id": 10,
+    "description": "Fast and secure VPN service for private browsing.",
+    "size": 48,
+    "reviews": 2100,
+    "ratingAvg": 4.4,
+    "downloads": 180000,
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 65 },
+      { "name": "3 star", "count": 170 },
+      { "name": "4 star", "count": 650 },
+      { "name": "5 star", "count": 1180 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/tLzHfHg/notegenie.png",
+    "title": "NoteGenie",
+    "companyName": "SmartWorks",
+    "id": 11,
+    "description": "Create smart notes with cloud synchronization.",
+    "size": 38,
+    "reviews": 1320,
+    "ratingAvg": 4.3,
+    "downloads": 71000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 55 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 430 },
+      { "name": "5 star", "count": 660 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/3c9m4vN/gameverse.png",
+    "title": "GameVerse",
+    "companyName": "PixelFun",
+    "id": 12,
+    "description": "Multiplayer gaming platform with live tournaments.",
+    "size": 150,
+    "reviews": 7600,
+    "ratingAvg": 4.9,
+    "downloads": 1000000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 140 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 6200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/Jm5P4R2/cookbook.png",
+    "title": "CookBook",
+    "companyName": "KitchenPro",
+    "id": 13,
+    "description": "Discover recipes and cooking tutorials worldwide.",
+    "size": 67,
+    "reviews": 940,
+    "ratingAvg": 4.2,
+    "downloads": 58000,
+    "ratings": [
+      { "name": "1 star", "count": 28 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 442 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/G0d0K9W/photolab.png",
+    "title": "PhotoLab",
+    "companyName": "CreativeSoft",
+    "id": 14,
+    "description": "Professional photo editing tools and filters.",
+    "size": 125,
+    "reviews": 3100,
+    "ratingAvg": 4.6,
+    "downloads": 290000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 75 },
+      { "name": "3 star", "count": 220 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1865 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/f8Jr3n9/budgetwise.png",
+    "title": "BudgetWise",
+    "companyName": "FinTrack",
+    "id": 15,
+    "description": "Manage expenses and track monthly savings.",
+    "size": 42,
+    "reviews": 1750,
+    "ratingAvg": 4.5,
+    "downloads": 84000,
+    "ratings": [
+      { "name": "1 star", "count": 22 },
+      { "name": "2 star", "count": 48 },
+      { "name": "3 star", "count": 140 },
+      { "name": "4 star", "count": 520 },
+      { "name": "5 star", "count": 1020 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/s3Y2c8J/movietime.png",
+    "title": "MovieTime",
+    "companyName": "StreamFlix",
+    "id": 16,
+    "description": "Watch trending movies and TV shows online.",
+    "size": 140,
+    "reviews": 6200,
+    "ratingAvg": 4.8,
+    "downloads": 890000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 210 },
+      { "name": "4 star", "count": 1400 },
+      { "name": "5 star", "count": 4500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/0V7Lx7Q/kidlearn.png",
+    "title": "KidLearn",
+    "companyName": "BrightKids",
+    "id": 17,
+    "description": "Educational games and lessons for children.",
+    "size": 74,
+    "reviews": 880,
+    "ratingAvg": 4.1,
+    "downloads": 47000,
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 110 },
+      { "name": "4 star", "count": 240 },
+      { "name": "5 star", "count": 435 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/QM0k9QF/languagepro.png",
+    "title": "LanguagePro",
+    "companyName": "LinguaTech",
+    "id": 18,
+    "description": "Learn multiple languages with AI-based lessons.",
+    "size": 88,
+    "reviews": 2300,
+    "ratingAvg": 4.7,
+    "downloads": 165000,
+    "ratings": [
+      { "name": "1 star", "count": 18 },
+      { "name": "2 star", "count": 36 },
+      { "name": "3 star", "count": 160 },
+      { "name": "4 star", "count": 680 },
+      { "name": "5 star", "count": 1406 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/0mY0nK5/rideeasy.png",
+    "title": "RideEasy",
+    "companyName": "MoveFast",
+    "id": 19,
+    "description": "Book rides and track drivers in real time.",
+    "size": 58,
+    "reviews": 4700,
+    "ratingAvg": 4.3,
+    "downloads": 510000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 340 },
+      { "name": "4 star", "count": 1400 },
+      { "name": "5 star", "count": 2750 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/P5kN9wT/cloudsync.png",
+    "title": "CloudSync",
+    "companyName": "DataNest",
+    "id": 20,
+    "description": "Secure cloud storage and file sharing platform.",
+    "size": 92,
+    "reviews": 1600,
+    "ratingAvg": 4.4,
+    "downloads": 99000,
+    "ratings": [
+      { "name": "1 star", "count": 24 },
+      { "name": "2 star", "count": 44 },
+      { "name": "3 star", "count": 130 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 902 }
+    ]
+  }
+]
