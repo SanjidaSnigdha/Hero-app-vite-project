@@ -1,0 +1,29 @@
+import React from 'react';
+import { useLoaderData, useParams } from 'react-router';
+
+const AppDetails = () => {
+    const {id} = useParams();
+    const appId = parseInt(id);
+    const data = useLoaderData();
+    const singleApp=data.find(app=>app.id===appId);
+    const { image,title, companyName, description } = singleApp;
+    return (
+        <div className='w-11/12 mx-auto mt-10'>
+            <div className='flex gap-8'>
+                <img className='w-48 rounded mt-10' src={image} alt=""/>
+                <div>
+                <h1 className='text-center mt-8 font-bold text-[35px] text-[#001931]'style={{fontFamily: "Inter, sans-serif"}}>{title}</h1>
+
+             <p>Developed by <span className='bg-gradient-to-r from-[#632EEF] to-[#9F62F2] text-transparent bg-clip-text font-bold'>{companyName}</span></p>
+               <div className="divider"></div>
+               <div className='flex '>
+
+               </div>
+
+                </div>
+            </div>
+        </div>
+    );
+};
+
+export default AppDetails;
